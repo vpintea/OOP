@@ -1,3 +1,11 @@
+package clients;
+
+import domain.Employee;
+import observers.HRDepartment;
+import observers.IObserver;
+import observers.PayrollDepartment;
+import subjects.EmployeeManagementSystem;
+
 import java.util.Date;
 
 public class App {

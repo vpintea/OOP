@@ -1,3 +1,7 @@
+package domain;
+
+import domain.Employee;
+
 import java.util.ArrayList;
 import java.util.List;
 
